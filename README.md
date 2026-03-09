@@ -52,11 +52,16 @@
 
 ### 前置条件
 
-1. **向日葵客户端** - 用于远程控制功能
+1. **Python 环境** - 用于坐标计算工具
+   - 版本要求：Python 3.7 或更高
+   - 安装地址：[https://python.org](https://python.org)
+   - 用于运行坐标计算脚本和辅助工具
+
+2. **向日葵客户端** - 用于远程控制功能
    - 版本要求：16.3.2 或更高
    - 下载地址：[https://sunlogin.oray.com](https://sunlogin.oray.com)
 
-2. **支持的AI编辑器**：
+3. **支持的AI编辑器**：
    - Claude Code
    - Open Code  
    - 🦞OpenClaw
