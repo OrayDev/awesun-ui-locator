@@ -70,12 +70,12 @@ cd awesun-ui-locator
 2. **复制技能文件**：
 ```bash
 # 找到你的AI编辑器配置目录
-# Claude Code: ~/.claude-code/skills/
+# Claude Code: ~/.claude/skills/
 # Open Code: ~/.opencode/skills/  
 # OpenClaw: ~/.openclaw/skills/
 
 # 复制技能文件
-cp -r . ~/.claude-code/skills/awesun-ui-locator/
+cp -r . ~/.claude/skills/awesun-ui-locator/
 ```
 
 3. **让Agent重新加载Skills**
