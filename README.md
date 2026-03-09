@@ -151,10 +151,6 @@ cp -r . ~/.claude/skills/awesun-ui-locator/
 - 大文件处理可能需要更多时间
 - 某些复杂界面可能需要多次尝试不同的描述方式
 
-## 📄 许可证
-
-本项目采用 [MIT License](LICENSE) 许可证。
-
 ## 📞 支持与反馈
 
 如果遇到问题或需要帮助：
