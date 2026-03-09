@@ -61,7 +61,7 @@
    - 版本要求：16.3.2 或更高
    - 下载地址：[https://sunlogin.oray.com/download/beta](https://sunlogin.oray.com/download/beta)
 
-3. **支持的AI编辑器**：
+3. **可用于支持Claude Skills的各类Agent**：
    - Claude Code
    - Open Code  
    - 🦞OpenClaw
