@@ -216,7 +216,6 @@ cp -r . ~/.claude-code/skills/awesun-ui-locator/
 如果遇到问题或需要帮助：
 
 - 提交 [Issue](https://github.com/OrayDev/awesun-ui-locator/issues)
-- 联系邮箱：support@oray.com
 - 访问：[向日葵官网](https://sunlogin.oray.com)
 
 ---
