@@ -59,66 +59,14 @@
 
 2. **向日葵客户端** - 用于远程控制功能
    - 版本要求：16.3.2 或更高
-   - 下载地址：[https://sunlogin.oray.com](https://sunlogin.oray.com)
+   - 下载地址：[https://sunlogin.oray.com/download/beta](https://sunlogin.oray.com/download/beta)
 
 3. **支持的AI编辑器**：
    - Claude Code
    - Open Code  
    - 🦞OpenClaw
 
-### 📦 自动安装
-
-我们提供了针对不同AI编辑器的一键安装脚本：
-
-#### Claude Code 安装
-
-```bash
-# 下载并执行安装脚本
-curl -sSL https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-claude-code.sh | bash
-
-# 或者手动下载执行
-wget https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-claude-code.sh
-chmod +x install-claude-code.sh
-./install-claude-code.sh
-```
-
-**Windows 用户**：
-```powershell
-# PowerShell 执行
-iwr -useb https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-claude-code.ps1 | iex
-```
-
-#### Open Code 安装
-
-```bash
-# Linux/macOS 用户
-curl -sSL https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-opencode.sh | bash
-
-# 或者
-wget https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-opencode.sh
-chmod +x install-opencode.sh
-./install-opencode.sh
-```
-
-**Windows 用户**：
-```powershell
-# PowerShell 执行
-iwr -useb https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-opencode.ps1 | iex
-```
-
-#### 🦞OpenClaw 安装
-
-```bash
-# Linux/macOS 用户
-curl -sSL https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-openclaw.sh | bash
-
-# 或者
-wget https://github.com/OrayDev/awesun-skill/raw/main/scripts/install-openclaw.sh
-chmod +x install-openclaw.sh
-./install-openclaw.sh
-```
-
-### 🔨 手动安装
+### 🔨 安装
 
 如果自动安装失败，可以按以下步骤手动安装：
 
