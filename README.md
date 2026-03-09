@@ -160,4 +160,4 @@ cp -r . ~/.claude/skills/awesun-ui-locator/
 
 ---
 
-**Made with ❤️ by Oray Team**
+**Built by Oray Awesun Team**
