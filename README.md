@@ -128,42 +128,6 @@ cp -r . ~/.claude/skills/awesun-ui-locator/
 }
 ```
 
-### 示例2：定位菜单图标
-
-**输入**：
-- 图片路径：`/Users/demo/app-interface.png`
-- 用户描述：`"右上角的汉堡菜单图标"`
-
-**输出**：
-```json
-{
-  "found": true,
-  "element": "菜单图标",
-  "coordinates": {
-    "x": 0.938,
-    "y": 0.067
-  },
-  "confidence": "high",
-  "description": "位于右上角的汉堡菜单图标（三条横线）"
-}
-```
-
-### 示例3：未找到元素
-
-**输出**：
-```json
-{
-  "found": false,
-  "element": "搜索按钮",
-  "reason": "未能在图片中找到匹配的元素",
-  "suggestions": [
-    "可能是滚动区域外的内容",
-    "元素可能被其他内容遮挡",
-    "描述可能不够精确，尝试更详细的描述"
-  ]
-}
-```
-
 ## 📚 参考资料
 
 - **技能详细说明**：[SKILL.md](SKILL.md)
